@@ -8,6 +8,10 @@ I'm a passionate Web Developer and Python enthusiast with a keen interest in Gen
 
 🔹 Python: Proficient in Python for automation, and APIs. I enjoy automating complex & repetetive tasks and building robust applications.
 
+🔹 Video Editing: Skilled in video editing using Adobe After Effects and Premiere Pro, adept at creating compelling visual content.
+
+🔹 Photo Manipulation: Experienced in graphic design with Adobe Illustrator and Photoshop, enhancing projects with captivating visuals.
+
 📫 Reach me at [Mail](mailto:dilukshann7@gmail.com) | [LinkedIn](www.linkedin.com/in/dilukshann7) | [Twitter](https://x.com/DilukshanN7)
 
 🚀 Projects: Check out my pinned repositories for my latest work in web development, Python scripts, and AI experiments.
