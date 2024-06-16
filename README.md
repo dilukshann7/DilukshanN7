@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 I'm a passionate Web Developer and Python enthusiast with a keen interest in Generative AI. With a strong foundation in building dynamic, responsive websites and working with AI Tools. Also proficient in using Python for automation tasks.
 
@@ -12,6 +12,10 @@ I'm a passionate Web Developer and Python enthusiast with a keen interest in Gen
 
 🚀 Projects: Check out my pinned repositories for my latest work in web development, Python scripts, and AI experiments.
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,python,git&perline=6" alt="Tech Stack" /> 
+🎓 Certified by Johns Hopkins University and Google.
+
+<img src="https://skillicons.dev/icons?i=js,react,html,css,python,git,bootstrap,tailwindcss,wordpress&perline=10" alt="Tech Stack" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilukshann7&layout=compact&theme=tokyonight&langs_count=6" />
 
 Let's build something amazing together!
