@@ -12,7 +12,7 @@ I'm a passionate Web Developer and Python enthusiast with a keen interest in Gen
 
 🔹 Photo Manipulation: Experienced in graphic design with Adobe Illustrator and Photoshop, enhancing projects with captivating visuals.
 
-📫 Reach me at [Mail](mailto:dilukshann7@gmail.com) | [LinkedIn](www.linkedin.com/in/dilukshann7) | [Twitter](https://x.com/DilukshanN7)
+📫 Reach me at [Mail](mailto:dilukshann7@gmail.com) | [LinkedIn](https://linkedin.com/in/dilukshann7) | [Twitter](https://x.com/DilukshanN7)
 
 🚀 Projects: Check out my pinned repositories for my latest work in web development, Python scripts, and AI experiments.
 
