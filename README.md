@@ -18,7 +18,7 @@ I'm a passionate Web Developer and Python enthusiast with a keen interest in Gen
 
 🎓 Certified by Johns Hopkins University and Google.
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,tailwindcss,python,django&perline=8" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,tailwindcss,python&perline=8" alt="Tech Stack" /> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilukshann7&layout=compact&theme=tokyonight&langs_count=6" />
 
