@@ -14,6 +14,5 @@ I'm a passionate Web Developer and Python enthusiast with a keen interest in Gen
 
 <img src="https://skillicons.dev/icons?i=ts,nextjs,svelte,graphql,tailwindcss,python&perline=8" alt="Tech Stack" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilukshann7&layout=compact&theme=tokyonight&langs_count=6" />
-
-Let's build something amazing together!
+![dilukshann7's Stats](https://github-readme-stats.vercel.app/api?username=dilukshann7&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+![dilukshann7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilukshann7&theme=gotham&hide_border=false)
