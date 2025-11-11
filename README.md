@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilukshann7&label=Profile%20views&color=0e75b6&style=flat" alt="dilukshann7" /> </p>
 
-- 🌱 I’m currently learning **C# & JavaScript**
+- 🌱 I’m currently learning **C# & Python**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **dilukshann7@gmail.com**
 
