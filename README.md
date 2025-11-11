@@ -93,6 +93,4 @@
   </a>
 </p>
 
-<img width="80" height="80" alt="meta-front-end-developer-certificate" src="https://github.com/user-attachments/assets/2e7f1dcb-fe20-462a-88f6-48b2b08793ae" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilukshann7&show_icons=true&locale=en&layout=compact" alt="dilukshann7" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilukshann7&show_icons=true&locale=en&layout=compact" alt="dilukshann7" />
